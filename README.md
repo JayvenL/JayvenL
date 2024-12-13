@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @JayvenLarsen
-### Third year computer engineering student at carleton university
-- I love creating stuff and learning new skills! I have many hobbies which includes audio, cars and coffee!
+### I'm currently a third year computer engineering student at carleton university
+-Coding is fun!
+
 
 
 
